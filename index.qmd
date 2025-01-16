@@ -1,0 +1,19 @@
+---
+title: "Hritik Roshan Maurya"
+resources: profile.jpg
+image: profile.jpg
+about:
+  template: solana
+  image-width: 20em
+  links:
+    - icon: youtube
+      text: Youtube
+      href: https://www.youtube.com/@deepinside333hrm
+      target: _blank
+---
+
+I am an IIT Madras BS student, currently at the degree level. I have strong skills in data science and development. I believe that learning together is the best way to grow, and I am also passionate about teaching and learning with all of you through this website and YouTube.
+
+## Skills
+
+- [Deep Learning](https://hrmiitm.github.io/dl)

@@ -1,0 +1,15 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "hrmiitm.github.io"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    
+
+
