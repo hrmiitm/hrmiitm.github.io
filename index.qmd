@@ -11,7 +11,7 @@ about:
       target: _blank
 ---
 
-I am an IIT Madras BS student, currently at the degree level. I have strong skills in data science and development. I believe that learning together is the best way to grow, and I am also passionate about teaching and learning with all of you through this website and YouTube.
+I am an IIT Madras BS student 22 years old, currently at the degree level having 9.2 cgpa last year. I have strong skills in data science and development. I believe that learning together is the best way to grow, and I am also passionate about teaching and learning with all of you through this website and YouTube.
 
 ## Skills
 
