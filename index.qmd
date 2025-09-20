@@ -15,5 +15,6 @@ I am an IIT Madras BS student 22 years old, currently at the degree level having
 
 ## Skills
 
+- [TDS - Tools In Data science](https://hrmiitm.github.io/tds)
 - [Deep Learning](https://hrmiitm.github.io/dl)
 - [DSA SHEET](https://hrmiitm.github.io/dsa_sheet)
